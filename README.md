@@ -1,3 +1,6 @@
+## Prerequisites
+Node v20.x
+
 ## Getting Started
 To get this code running on your local machine, run -
 1. `npm install`
